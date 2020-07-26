@@ -17,3 +17,4 @@ module ApiTq
     # the framework and any gems in your application.
   end
 end
+JUHE_CONFIG = Rails.application.config_for(:juhe)
